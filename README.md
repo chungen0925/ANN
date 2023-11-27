@@ -1,3 +1,9 @@
 # ANN
-說明:從kaggles導入資料集，針對資料集的客戶詳細資訊判斷客戶是否會離開此銀行。
-主要是在做類神經網路，先導入標準庫後，導入資料集顯示資料，接著針對分類數據進行處理，也會導入Keras，以及利用隨機梯度下降來訓練神經網路，然後編譯神經網路，將訓練集放入模型訓練。
+Imported a dataset from Kaggle to analyze customer churn for a bank.
+Focused on developing a neural network for this analysis.
+Initially, imported standard libraries and then the dataset to visualize the data.
+Processed categorical data within the dataset.
+Utilized Keras for building the neural network model.
+Employed Stochastic Gradient Descent for training the neural network.
+Compiled the neural network.
+Trained the model using the training dataset.
